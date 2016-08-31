@@ -1,7 +1,7 @@
 {
-  "name": "react-starter-environment",
+  "name": "React-schedule-days",
   "version": "1.0.0",
-  "description": "React starter and environment project.",
+  "description": "Select all days with select all option.",
   "main": "index.js",
   "scripts": {
     "build": "webpack --config webpack.config.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mayurmate149/react-starter-environment.git"
+    "url": "git+https://github.com/mayurmate149/React-schedule-days.git"
   },
   "author": "Mayur Mate",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mayurmate149/react-starter-environment/issues"
+    "url": "https://github.com/mayurmate149/React-schedule-days.git/issues"
   },
-  "homepage": "https://github.com/mayurmate149/react-starter-environment#readme",
+  "homepage": "https://github.com/mayurmate149/React-schedule-days.git#readme",
   "dependencies": {
     "babel-core": "^6.14.0",
     "babel-loader": "^6.2.5",
